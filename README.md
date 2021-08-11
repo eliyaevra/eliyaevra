@@ -23,7 +23,7 @@
 
 ## My Repos
 
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=shinokada&show_owner=true)](https://github.com/shinokada/shinokada)
+[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=eliyaevra&repo=eliyaevra&show_owner=true)](https://github.com/eliyaevra/eliyaevra)
 
 [![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=gitstart&show_owner=true)](https://github.com/shinokada/gitstart)
 
