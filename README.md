@@ -25,9 +25,9 @@
 
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=eliyaevra&repo=eliyaevra&show_owner=true)](https://github.com/eliyaevra/eliyaevra)
 
-[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=gitstart&show_owner=true)](https://github.com/shinokada/gitstart)
+[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=eliyaevra&repo=car-rental-system&show_owner=true)](https://github.com/eliyaevra/car-rental-system)
 
-[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=backpack_install&show_owner=true)](https://github.com/shinokada/backpack_install)
+[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=eliyaevra&repo=backpack_install&show_owner=true)](https://github.com/shinokada/backpack_install)
 
 
 
