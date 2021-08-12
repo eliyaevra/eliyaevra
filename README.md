@@ -11,7 +11,7 @@
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=eliyaevra&column=9&theme=gruvbox&no-frame=true"/>
 
-![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliyaevra&show_icons=true&theme=tokyonight)
+![eliya's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliyaevra&show_icons=true&theme=tokyonight)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
@@ -25,7 +25,7 @@
 
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=eliyaevra&repo=eliyaevra&show_owner=true)](https://github.com/eliyaevra/eliyaevra)
 
-[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=eliyaevra&repo=car-rental-system&show_owner=true)](https://github.com/eliyaevra/car-rental-system)
+[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=eliyaevra&repo=eliyaevra&show_owner=true)](https://github.com/eliyaevra/car-rental-system)
 
 [![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=eliyaevra&repo=backpack_install&show_owner=true)](https://github.com/shinokada/backpack_install)
 
