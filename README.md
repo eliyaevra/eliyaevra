@@ -25,9 +25,9 @@
 
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=eliyaevra&repo=eliyaevra&show_owner=true)](https://github.com/eliyaevra/eliyaevra)
 
-[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=eliyaevra&repo=eliyaevra&show_owner=true)](https://github.com/eliyaevra/car-rental-system)
+[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=eliyaevra&repo=Ruaraka_Car_Rental_Managment_System&show_owner=true)](https://github.com/eliyaevra/Ruaraka_Car_Rental_Managment_System)
 
-[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=eliyaevra&repo=backpack_install&show_owner=true)](https://github.com/shinokada/backpack_install)
+[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=eliyaevra&repo=Silverline-Auto-Spare-Parts&show_owner=true)](https://github.com/eliyaevra/Silverline-Auto-Spare-Parts)
 
 
 
